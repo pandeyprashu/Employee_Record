@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EmployeeTable</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email_address">Email Address</string>
+    <string name="phone">Phone</string>
+    <string name="name">Name</string>
+    <string name="total_experience">Total Experience</string>
+    <string name="address">Address</string>
+    <string name="current_organisation_name">Current Organisation Name</string>
+    <string name="personal_email_address">Personal Email Address</string>
+    <string name="official_email_address">Official Email Address</string>
+</resources>
