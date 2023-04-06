@@ -3,7 +3,9 @@ This is a simple example project demonstrating the usage of RoomDatabase in Kotl
 
 »»Google Location for fetching current location
 »»Bitmap for storing photos from camera
-»»Firebase Notification just for testing notification feature
+»»Firebase Notification just for testing notification
+
+
 ![add page](https://user-images.githubusercontent.com/87258898/230379197-71521283-bcaf-4124-9042-296ae70dd313.jpg)
 
 
